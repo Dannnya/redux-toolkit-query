@@ -1,0 +1,19 @@
+
+.spinner-icon {
+    font-size: 3rem;
+    /* Розмір спіннера */
+    color: #000;
+    /* Колір спіннера */
+    animation: spin 1s linear infinite;
+    /* Анімація обертання */
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
