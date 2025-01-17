@@ -1,16 +1,3 @@
 {
-    "goods": [
-        {
-            "id": 1,
-            "name": "Milk"
-        },
-        {
-            "id": 2,
-            "name": "Bananas"
-        },
-        {
-            "id": 3,
-            "name": "Ice cream"
-        }
-    ]
+  "goods": []
 }
